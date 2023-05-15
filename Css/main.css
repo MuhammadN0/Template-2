@@ -361,7 +361,7 @@ header .container nav .form i{
   padding-bottom: var(--secpadding);
   height: 600px;
   position: relative;
-  background-image: url(../images/Designbackground.webp);
+  background-image: url(../Images/Designbackground.webp);
   background-size: cover;
   display: flex;
   align-items: center;
@@ -591,7 +591,7 @@ header .container nav .form i{
   padding-top: var(--secpadding);
   padding-bottom: var(--secpadding);
   position: relative;
-  background-image: url(../images/stats.png);
+  background-image: url(../Images/stats.png);
   background-size: cover;
 }
 
@@ -791,7 +791,7 @@ header .container nav .form i{
 /* Start quote */
 .quote{
   height: 300px;
-  background-image: url(../images/Sea-HD-Wallpapers-1080p.jpeg);
+  background-image: url(../Images/Sea-HD-Wallpapers-1080p.jpeg);
   background-size: cover;
   position: relative;
   display: flex;
@@ -943,7 +943,7 @@ header .container nav .form i{
 /* Start Mailing */
 .mailing{
   height: 200px;
-  background-image: url(../images/Nature-HD-Wallpapers-1080p-for-Dektop.jpg);
+  background-image: url(../Images/Nature-HD-Wallpapers-1080p-for-Dektop.jpg);
   background-size: cover;
   background-position-y:50%;
   position: relative;
@@ -1107,7 +1107,7 @@ header .container nav .form i{
 .footer{
   padding-top: var(--secpadding);
   padding-bottom: var(--secpadding);
-  background-image: url(../images/Sea-HD-Wallpapers-1080p.jpeg);
+  background-image: url(../Images/Sea-HD-Wallpapers-1080p.jpeg);
   position: relative;
   height: fit-content
 }
